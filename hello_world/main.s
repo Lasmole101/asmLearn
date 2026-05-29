@@ -1,3 +1,5 @@
+# Simplest possible hello world application
+
 .global 	_start
 
 .section .text
